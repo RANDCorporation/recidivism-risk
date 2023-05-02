@@ -18,4 +18,4 @@ Additional information about this effort can be found on in the report linked ab
 
 ## Copyright and License
 
-Copyright (C) 2023 RAND Corporation. This code is made available under the MIT license.
+Copyright (C) 2023 RAND Corporation. This code is made available under the GPL-v3 license.
