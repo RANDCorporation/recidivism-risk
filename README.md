@@ -19,3 +19,14 @@ Additional information about this effort can be found on in the report linked ab
 ## Copyright and License
 
 Copyright (C) 2023 RAND Corporation. This code is made available under the GPL-v3 license.
+
+
+## BIBTEX Citation to the Original Report
+@book{RR-A1360-1,
+author="Bushway, Shawn D. and Brian G. Vegetabile and Nidhi Kalra and Lee Remi and Greg Baumann",
+title="Providing Another Chance: Resetting Recidivism Risk in Criminal Background Checks",
+address="Santa Monica, CA",
+year="2022",
+doi="10.7249/RRA1360-1",
+publisher="RAND Corporation"
+}
